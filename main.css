@@ -627,6 +627,9 @@ ul {
 .footer-sec3-link {
   color: #06c;
 }
+.footer-sec3-link:hover {
+  text-decoration: underline;
+}
 .footer-link-style {
   color: #515154;
   font-family: "SF Pro TEXT R";
