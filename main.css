@@ -676,6 +676,7 @@ ul {
   }
   #watch-section {
     background-size: 2500px;
+    background-position: center -40px;
   }
   #six-layered_1 {
     background-size: 900px;
@@ -698,6 +699,7 @@ ul {
   }
   #watch-section {
     background-size: 2200px;
+    background-position: center 0;
   }
   #six-layered_1 {
     background-size: 800px;
@@ -723,6 +725,7 @@ ul {
   }
   #watch-section {
     background-size: 2000px;
+    background-position: center 10px;
   }
   #six-layered_1 {
     background-size: 700px;
