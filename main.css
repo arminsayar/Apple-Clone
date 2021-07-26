@@ -717,6 +717,19 @@ ul {
     background-size: 800px;
   }
 }
+@media only screen and (max-width: 1280px) {
+  #main-ul {
+    margin: 0 119.5px;
+  }
+  #watch-section {
+    background-size: 2000px;
+    background-position: center 10px;
+  }
+  #six-layered_1 {
+    background-size: 700px;
+  }
+}
+
 @media only screen and (max-width: 1024px) {
   #main-ul {
     margin: 0 0;
@@ -729,17 +742,5 @@ ul {
   }
   #six-layered_2 {
     background-size: 600px;
-  }
-}
-@media only screen and (max-width: 1280px) {
-  #main-ul {
-    margin: 0 119.5px;
-  }
-  #watch-section {
-    background-size: 2000px;
-    background-position: center 10px;
-  }
-  #six-layered_1 {
-    background-size: 700px;
   }
 }
