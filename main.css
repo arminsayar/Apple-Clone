@@ -670,9 +670,21 @@ ul {
     margin: 0 431.5px;
   }
 }
+@media only screen and (max-width: 1680px) {
+  #main-ul {
+    margin: 0 303.5px;
+  }
+  #watch-section {
+    background-size: 2500px;
+    background-position: center -40px;
+  }
+  #six-layered_1 {
+    background-size: 900px;
+  }
+}
 @media only screen and (max-width: 1600px) {
   #main-ul {
-    margin: 0 271.5px;
+    margin: 0 263.5px;
   }
   #watch-section {
     background-size: 2500px;
